@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Nodejs
 - 💬 Ask me about Android
-- 📫 How to reach me: LinkedIn, Facebook
+- 📫 How to reach me:  [Linkedin]([https://www.linkedin.com/in/firozanwar/](https://www.linkedin.com/in/firozanwar/))
 - ⚡ Fun fact: I do lots of tech stuffs
 <!-- - 😄 Pronouns: ... -->
