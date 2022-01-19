@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Paytm Mini Apps.
+- 🔭 I’m currently working on Paytm Mini Apps Team as a Android Technnical Lead.
 - 🌱 I’m currently learning H5 pages and Nodejs
 - 👯 I’m looking to collaborate on open source Android project
 - 🤔 I’m looking for help with Nodejs
