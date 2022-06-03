@@ -5,11 +5,12 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Paytm Mini Apps Team as a Android Technnical Lead.
+- 🔭 I’m currently working on Paytm Mini Apps Team as a Android Technnical Lead. 
+- 🔭 9 years of professional experience in architecting, developing Android application.
 - 🌱 I’m currently mastering DSA using Java and kotlin.
 - 👯 I’m looking to collaborate on open source Android project.
 - 🤔 I’m looking for help with Nodejs, React, Javascript.
-- 💬 Ask me about Android, Java
+- 💬 Ask me about Android, Java, Kotlin, H5, video technologies
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/firozanwar/) , [Twitter](https://twitter.com/firozanawar)
 - ⚡ Fun fact: I do lots of tech stuffs
 <!-- - 😄 Pronouns: ... -->
