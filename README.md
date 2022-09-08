@@ -12,5 +12,5 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with Nodejs, React, Javascript.
 - 💬 Ask me about Android, Java, Kotlin, H5, Webview, video technologies etc.
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/firozanwar/) , [Twitter](https://twitter.com/firozanawar)
-- ⚡ Fun fact: I do lots of tech stuffs
+- ⚡ Fun fact: I do lots of tech stuffs and I am a self taught programmer
 <!-- - 😄 Pronouns: ... -->
