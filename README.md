@@ -1,7 +1,7 @@
 ### Hi I am Firoz Anwar 👋
 
 # 💫 About Me:
- 🔭 I’m currently working on Paytm Mini Apps Team as a Android Techn Lead and i am also part of Paytm's central core enginnering team. <br> 🔭 9 years of professional experience in architecting, developing Android application. Delivered 20+ products.<br> 🌱 I’m currently mastering DSA using Java and kotlin.<br> 👯 I’m looking to collaborate on open source Android project.<br> 🤔 I’m looking for help with Nodejs, React, Javascript.<br> 💬 Ask me about Android, Java, Kotlin, H5, Webview, video technologies etc.<br> 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/firozanwar/) , [Twitter](https://twitter.com/firozanawar)<br> ⚡ Fun fact: I do lots of tech stuffs and I am a self taught programmer
+ 🔭 I’m currently working on Paytm as a Senior Android Technical Lead and i am also part of Paytm's central core enginnering team. <br> 🔭 9+ years of professional experience in architecting, developing Android application. Delivered 20+ products.<br> 🌱 I’m currently mastering DSA using Java, kotlin and python.<br> 👯 I’m looking to collaborate on open source Android and Python project.<br> 🤔 I’m looking for help with Python, Nodejs, React, Javascript.<br> 💬 Ask me about Android, Java, Kotlin, Python, H5, Webview, video technologies etc.<br> 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/firozanwar/) , [Twitter](https://twitter.com/firozanawar)<br> ⚡ Fun fact: I do lots of tech stuffs and I am a self taught programmer
 
 
 ## 🌐 Socials:
